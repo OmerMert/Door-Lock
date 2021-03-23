@@ -1,3 +1,4 @@
 # Door Lock with IR Receiver by Using Arduino
 
-![Door-Lock Schematic](https://user-images.githubusercontent.com/47865653/111696889-e6216000-8845-11eb-926a-2718242b1849.png)
+![Door Lock Schematic](https://user-images.githubusercontent.com/47865653/112166142-6d812180-8c00-11eb-8b62-15a8254403d9.jpg)
+
